@@ -1,9 +1,9 @@
 === CommentMilk ===
 Contributors: johncow
-Tags: comments, contests
+Tags: comments, contests, linkluv, dofollow, links
 Requires at least: 2.5
-Tested up to: 2.5
-Stable tag: 1.02
+Tested up to: 2.6.3
+Stable tag: 1.03
 
 CommentMilk will parse the URL's in comments, and also manages contests through comments.
 
@@ -17,6 +17,6 @@ CommentMilk can also help run contests. You can add "campaigns" that will add ex
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the `commentmilk` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Customize your options on the settings->CommentMilk page.
