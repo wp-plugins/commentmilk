@@ -1,6 +1,6 @@
 === CommentMilk ===
 Contributors: johncow
-Tags: comments, contests
+Tags: comments, contests, linkluv, dofollow, links
 Requires at least: 2.5
 Tested up to: 2.5
 Stable tag: 1.02
