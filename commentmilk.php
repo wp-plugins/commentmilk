@@ -2,7 +2,7 @@
 Plugin Name: CommentMilk
 Plugin URI: http://www.johncow.com/commentmilk/
 Description: This is the CommentMilk Plugin. By Johncow.com
-Version: 1.02
+Version: 1.03
 Author: johncow
 Author URI: http://www.johncow.com/commentmilk/
 */
