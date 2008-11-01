@@ -3,7 +3,7 @@ Contributors: johncow
 Tags: comments, contests, linkluv, dofollow, links
 Requires at least: 2.5
 Tested up to: 2.5
-Stable tag: 1.02
+Stable tag: 1.03
 
 CommentMilk will parse the URL's in comments, and also manages contests through comments.
 
